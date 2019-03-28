@@ -1,0 +1,10 @@
+def  get_sum ( * num ):
+    tmp =  0
+    # ? ch? d? tham s?
+    cho tôi b?ng num:
+        tmp + = i
+    tr? l?i tmp
+
+
+k?t qu? = get_sum ( 1 , 2 , 3 , 4 , 5 )
+in (k?t qu?)

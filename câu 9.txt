@@ -1,0 +1,32 @@
+# This program computer execution of phép tính don gi?n
+# Hàm s? hai s?
+def  thêm ( x , y ):
+    tr? l?i x + y
+# Hàm B? s? hai
+def  tr? ( x , y ):
+    tr? l?i x - y
+# Hàm s? hai s?
+def  b?i ( x , y ):
+    tr? l?i x * y
+# Hàm chia hai s?
+ chia def ( x , y ):
+    tr? l?i x / y
+in ( " Ch?n th? thao. " )
+in ( " 1.Thêm " )
+in ( " 2.Subtract " )
+in ( " 3.Multiply " )
+in ( " 4.Divide " )
+# L?y input
+s? l?a ch?n =  d?u vào ( " Trò choi x?p h?ng (1/2/3/4): " )
+num1 =  int ( d?u vào ( "L?i nói và ph?n m?m : " ))
+num2 =  int ( d?u vào ( "Ph?n m?m s? hai: " ))
+
+n?u l?a ch?n ==  ' 1 ' :
+    in (num1, " + " , num2, " = " , thêm (num1, num2))
+l?a ch?n elif ==  ' 2 ' :
+    in (num1, " - " , num2, " = " , tr? (num1, num2))
+l?a ch?n elif ==  ' 3 ' :
+    in (num1, " * " , num2, " = " , nhân (num1, num2))
+l?a ch?n elif ==  ' 4 ' :
+    in (num1, " / " , num2, " = " , chia (num1, num2))
+khác : in ( " Ð?u vào không k?t h?p " )

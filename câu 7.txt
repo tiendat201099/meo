@@ -1,0 +1,6 @@
+def  checkValue ( n ):
+    n?u n % 2 == 0 :
+        in ( "dòng là m?t s? ch? " )
+    khác :
+        in ( "b?n là m?t ph?n s? " )
+ki?m tra giá tr? ( 7 )

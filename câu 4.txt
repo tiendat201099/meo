@@ -1,0 +1,6 @@
+a = " xin chào d?ng tính! "
+def  nói ( a ):
+    a =  " d?i h?c vinh "
+    in (a)
+nói (a)
+in (a)

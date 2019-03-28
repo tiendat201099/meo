@@ -1,0 +1,6 @@
+nh?p môn toán
+r = float ( d?u vào ( " canh vào bán c?a b?n -> " ))
+chuvi =  2 * math.pi * r
+dientich = math.pi * r * r
+print ( " chu vi ch?n tron ??có bán kinh {0} là -> {1} " . format (r, chuvi))
+print ( " tích h?p hình vuông tron ??co bán kinh {0} là -> {1} " .format (r, dientich))

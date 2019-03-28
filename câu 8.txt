@@ -1,0 +1,18 @@
+nh?p môn toán
+d?t ra = [ 0 , 0 ]
+trong khi  Ðúng :
+    s = d?u vào ()
+    n?u  không s:
+        phá v?
+    phong trào = s.split ( "  " )
+    hu?ng = chuy?n d?ng [ 0 ]
+    bu?c = int (chuy?n d?ng [ 1 ])
+    n?u hu?ng == " LÊN " :
+        pos [ 0 ] + = bu?c
+    hu?ng elif == " XU?NG " :
+        pos [ 0 ] - = bu?c
+    hu?ng elif == " TRÁI " :
+        pos [ 1 ] + = bu?c
+    khác :
+        vu?t qua
+in ( int ( vòng (math.sqrt (pos [ 1 ] ** 2 + pos [ 0 ] ** 2 ))))

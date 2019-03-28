@@ -1,0 +1,7 @@
+a = " xin chào d?ng tính "
+def  nói ():
+    toàn c?u m?t
+    a = " d?i h?c vinh "
+    in (a)
+Nói()
+in (a)
