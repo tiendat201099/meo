@@ -1,4 +1,4 @@
 def  say_hello ():
-    a = " ch‡o "
+    a = " ch√†o "
     in (a)
-    prin (a)
+    print (a)
