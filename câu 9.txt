@@ -1,32 +1,32 @@
-# This program computer execution of phép tính don gi?n
-# Hàm s? hai s?
-def  thêm ( x , y ):
-    tr? l?i x + y
-# Hàm B? s? hai
-def  tr? ( x , y ):
-    tr? l?i x - y
-# Hàm s? hai s?
+# This program computer execution of phÃ©p tÃ­nh don gian
+# HÃ m so hai so
+def  thÃªm ( x , y ):
+    tra loi x + y
+# HÃ m B? s? hai
+def  tra ( x , y ):
+    tra loi x - y
+# HÃ m so hai so
 def  b?i ( x , y ):
     tr? l?i x * y
-# Hàm chia hai s?
+# HÃ m chia hai s?
  chia def ( x , y ):
     tr? l?i x / y
 in ( " Ch?n th? thao. " )
-in ( " 1.Thêm " )
+in ( " 1.ThÃªm " )
 in ( " 2.Subtract " )
 in ( " 3.Multiply " )
 in ( " 4.Divide " )
 # L?y input
-s? l?a ch?n =  d?u vào ( " Trò choi x?p h?ng (1/2/3/4): " )
-num1 =  int ( d?u vào ( "L?i nói và ph?n m?m : " ))
-num2 =  int ( d?u vào ( "Ph?n m?m s? hai: " ))
+so lua chon =  dua vÃ o ( " TrÃ² choi xep hang (1/2/3/4): " )
+num1 =  int ( dua vÃ o ( "Loi nÃ³i vÃ  phan mem : " ))
+num2 =  int ( dua vÃ o ( "Phan mem so hai: " ))
 
 n?u l?a ch?n ==  ' 1 ' :
-    in (num1, " + " , num2, " = " , thêm (num1, num2))
+    in (num1, " + " , num2, " = " , thÃªm (num1, num2))
 l?a ch?n elif ==  ' 2 ' :
     in (num1, " - " , num2, " = " , tr? (num1, num2))
 l?a ch?n elif ==  ' 3 ' :
-    in (num1, " * " , num2, " = " , nhân (num1, num2))
+    in (num1, " * " , num2, " = " , nhÃ¢n (num1, num2))
 l?a ch?n elif ==  ' 4 ' :
     in (num1, " / " , num2, " = " , chia (num1, num2))
-khác : in ( " Ğ?u vào không k?t h?p " )
+khÃ¡c : in ( " Ã?u vÃ o khÃ´ng k?t h?p " )
