@@ -1,4 +1,4 @@
-def  t?ng ( a , b ):
-    tr? l?i a + b
-c = t?ng ( 4 , 5 ) ;
-in ( " t?ng c?a 4 v‡ 5 = "  +  str (c))
+def  tong ( a , b ):
+    tra loi a + b
+c = tong ( 4 , 5 ) ;
+in ( " tong cua 4 v√† 5 = "  +  str (c))
