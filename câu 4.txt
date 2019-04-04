@@ -1,6 +1,6 @@
-a = " xin chào d?ng tính! "
-def  nói ( a ):
-    a =  " d?i h?c vinh "
+a = " xin chÃ o dong tÃ­nh! "
+def  nÃ³i ( a ):
+    a =  " dai hoc vinh "
     in (a)
-nói (a)
+nÃ³i (a)
 in (a)
