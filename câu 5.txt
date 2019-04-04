@@ -1,7 +1,7 @@
-a = " xin ch‡o d?ng tÌnh "
-def  nÛi ():
-    to‡n c?u m?t
-    a = " d?i h?c vinh "
+a = " xin ch√†o dong t√≠nh "
+def  n√≥i ():
+    to√†n cau mot
+    a = " dai hoc vinh "
     in (a)
-NÛi()
+N√≥i()
 in (a)
