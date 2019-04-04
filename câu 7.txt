@@ -1,6 +1,6 @@
 def  checkValue ( n ):
     n?u n % 2 == 0 :
-        in ( "dÚng l‡ m?t s? ch? " )
-    kh·c :
-        in ( "b?n l‡ m?t ph?n s? " )
-ki?m tra gi· tr? ( 7 )
+        in ( "d√≤ng l√† mot so ch? " )
+    kh√°c :
+        in ( "ban l√† mot phan so " )
+kiem tra gi√° tri ( 7 )
