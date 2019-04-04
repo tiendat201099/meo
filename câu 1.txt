@@ -1,6 +1,6 @@
-def  t?ng ( a , b ):
-    in ( " t?ng = " + str (a + b))
-# tính t?ng 2 s? 4,5
-t?ng ( 4 , 5 )
-# tính t?ng 2 s? 3,7
-t?ng ( 3 , 7 )
+def  tong ( a , b ):
+    in ( " tong = " + str (a + b))
+# tÃ­nh tong 2 s? 4,5
+tong ( 4 , 5 )
+# tÃ­nh tong 2 s? 3,7
+tong ( 3 , 7 )
