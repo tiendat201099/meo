@@ -1,6 +1,0 @@
-def  tong ( a , b ):
-    in ( " tong = " + str (a + b))
-# tính tong 2 s? 4,5
-tong ( 4 , 5 )
-# tính tong 2 s? 3,7
-tong ( 3 , 7 )
